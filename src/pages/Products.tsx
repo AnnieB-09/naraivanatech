@@ -12,7 +12,7 @@ const Products = () => {
         <section className="max-w-4xl mx-auto text-center mb-20">
           <h1 className="text-4xl md:text-6xl font-bold mb-6">Our Products</h1>
           <p className="text-xl text-muted-foreground leading-relaxed">
-            Intelligent vending solutions powered by advanced AI algorithms and cutting-edge technology
+            Intelligent automatic sprayer systems powered by advanced AI algorithms and cutting-edge technology
           </p>
         </section>
 
@@ -33,17 +33,17 @@ const Products = () => {
                     <Badge variant="secondary" className="shadow-card">POC Phase</Badge>
                     <Badge className="bg-accent text-accent-foreground">AI-Powered</Badge>
                   </div>
-                  <CardTitle className="text-3xl mb-3">Perfume Vending Machine</CardTitle>
+                  <CardTitle className="text-3xl mb-3">Automatic Perfume Sprayer</CardTitle>
                   <CardDescription className="text-base">
-                    Revolutionary fragrance selection experience powered by artificial intelligence
+                    Revolutionary touch-free fragrance spraying experience powered by artificial intelligence
                   </CardDescription>
                 </CardHeader>
                 
                 <CardContent className="p-0 space-y-6">
                   <p className="text-muted-foreground leading-relaxed">
-                    Our smart perfume vending machine uses advanced AI to analyze customer preferences 
-                    and recommend the perfect fragrance. With face detection and personalization algorithms, 
-                    it creates a unique shopping experience at airports, malls, and high-traffic locations.
+                    Our smart automatic perfume sprayer uses advanced AI to analyze customer preferences 
+                    and recommend the perfect fragrance. Choose your selection, complete payment, and receive 
+                    a precise touch-free spray. Ideal for airports, malls, and high-traffic locations.
                   </p>
 
                   <div className="space-y-4">
@@ -62,9 +62,9 @@ const Products = () => {
                     <div className="flex items-start gap-3">
                       <Target className="h-5 w-5 text-accent mt-1 flex-shrink-0" />
                       <div>
-                        <h4 className="font-medium mb-1">Face Detection Technology</h4>
+                        <h4 className="font-medium mb-1">Automatic Spraying System</h4>
                         <p className="text-sm text-muted-foreground">
-                          Advanced computer vision for personalized user experiences
+                          Precision touch-free spraying with AI-controlled dosage and coverage
                         </p>
                       </div>
                     </div>
@@ -72,9 +72,9 @@ const Products = () => {
                     <div className="flex items-start gap-3">
                       <Cpu className="h-5 w-5 text-accent mt-1 flex-shrink-0" />
                       <div>
-                        <h4 className="font-medium mb-1">Smart Recommendation Engine</h4>
+                        <h4 className="font-medium mb-1">Smart Selection Interface</h4>
                         <p className="text-sm text-muted-foreground">
-                          Contextual suggestions based on time, season, and user history
+                          Touchscreen selection with contextual suggestions based on preferences
                         </p>
                       </div>
                     </div>
@@ -82,9 +82,9 @@ const Products = () => {
                     <div className="flex items-start gap-3">
                       <ShieldCheck className="h-5 w-5 text-accent mt-1 flex-shrink-0" />
                       <div>
-                        <h4 className="font-medium mb-1">Secure & Contactless</h4>
+                        <h4 className="font-medium mb-1">Secure & Hygienic</h4>
                         <p className="text-sm text-muted-foreground">
-                          Touch-free interface with secure payment processing
+                          Contactless operation with secure payment processing
                         </p>
                       </div>
                     </div>
@@ -112,17 +112,17 @@ const Products = () => {
                     <Badge variant="secondary" className="shadow-card">POC Phase</Badge>
                     <Badge className="bg-accent text-accent-foreground">Smart Tech</Badge>
                   </div>
-                  <CardTitle className="text-3xl mb-3">Sunscreen Vending Machine</CardTitle>
+                  <CardTitle className="text-3xl mb-3">Automatic Sunscreen Sprayer</CardTitle>
                   <CardDescription className="text-base">
-                    Intelligent sun protection with AI-powered skin analysis and UV monitoring
+                    Intelligent touch-free sun protection with AI-powered skin analysis and UV monitoring
                   </CardDescription>
                 </CardHeader>
                 
                 <CardContent className="p-0 space-y-6">
                   <p className="text-muted-foreground leading-relaxed">
-                    Our innovative sunscreen vending machine combines AI technology with UV detection 
-                    to provide personalized sun protection. Perfect for beaches, parks, outdoor venues, 
-                    and travel hubs where sun safety is paramount.
+                    Our innovative automatic sunscreen sprayer combines AI technology with UV detection 
+                    to provide personalized sun protection. Select your SPF, pay, and receive a precise 
+                    touch-free spray. Perfect for beaches, parks, outdoor venues, and travel hubs.
                   </p>
 
                   <div className="space-y-4">
@@ -151,9 +151,9 @@ const Products = () => {
                     <div className="flex items-start gap-3">
                       <Cpu className="h-5 w-5 text-accent mt-1 flex-shrink-0" />
                       <div>
-                        <h4 className="font-medium mb-1">Personalized Protection</h4>
+                        <h4 className="font-medium mb-1">Automatic Spray System</h4>
                         <p className="text-sm text-muted-foreground">
-                          Customized sunscreen selection based on weather, time, and user profile
+                          Touch-free spraying with precise dosage control for optimal coverage
                         </p>
                       </div>
                     </div>
@@ -161,9 +161,9 @@ const Products = () => {
                     <div className="flex items-start gap-3">
                       <ShieldCheck className="h-5 w-5 text-accent mt-1 flex-shrink-0" />
                       <div>
-                        <h4 className="font-medium mb-1">Eco-Friendly Dispensing</h4>
+                        <h4 className="font-medium mb-1">Hygienic & Contactless</h4>
                         <p className="text-sm text-muted-foreground">
-                          Minimal waste with precise dispensing and refillable options
+                          Zero-touch operation with secure payment for maximum hygiene
                         </p>
                       </div>
                     </div>

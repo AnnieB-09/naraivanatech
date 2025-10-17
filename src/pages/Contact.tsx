@@ -97,10 +97,10 @@ const Contact = () => {
               </CardHeader>
               <CardContent>
                 <a 
-                  href="mailto:contact@naraivana.com" 
+                  href="mailto:aavtrtechnologies@gmail.com" 
                   className="text-sm text-muted-foreground hover:text-foreground transition-smooth"
                 >
-                  contact@naraivana.com
+                  aavtrtechnologies@gmail.com
                 </a>
               </CardContent>
             </Card>
@@ -206,7 +206,7 @@ const Contact = () => {
                 <div>
                   <h4 className="font-semibold mb-2">Product Inquiries</h4>
                   <p className="text-sm text-muted-foreground">
-                    Interested in our vending machines or surveillance systems? Let us know 
+                    Interested in our automatic sprayer systems or surveillance solutions? Let us know 
                     your requirements and we'll schedule a demo.
                   </p>
                 </div>
